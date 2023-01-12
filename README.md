@@ -24,4 +24,4 @@
 
 *2022.03 - 2022.09*
 
-[**Ghost Cops NFT project**]("https://github.com/YeomSoonWon/ghost_nft_project")
+[**Ghost Cops NFT project**](https://github.com/YeomSoonWon/ghost_nft_project)
