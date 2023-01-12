@@ -18,7 +18,7 @@
 
 [**Space invader - add SFX, new stage**](https://github.com/YeomSoonWon/Hello_Wolrd)
 
-
+![IMG_2347](https://user-images.githubusercontent.com/71970215/211973005-f8463349-42c4-4927-8c4b-46cdc2006586.JPG)
 
 *2022.03 - 2022.09*
 
