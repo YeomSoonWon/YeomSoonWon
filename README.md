@@ -20,8 +20,6 @@
 
 
 
-​    ![IMG_2347](C:\Users\SSAFY\Desktop\GIT\YeomSoonWon\assets\IMG_2347-1673488733117-4.JPG)
-
 *2022.03 - 2022.09*
 
 [**Ghost Cops NFT project**](https://github.com/YeomSoonWon/ghost_nft_project)
