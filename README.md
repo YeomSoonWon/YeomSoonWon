@@ -10,6 +10,10 @@
 
 ​	Software
 
+*2023.01 - 2023.12*
+
+**Samsung Software Academy For Youth(SSAFY) 9th**
+
 ## :computer: Projects
 
 ![ingame](https://upload.wikimedia.org/wikipedia/en/2/20/SpaceInvaders-Gameplay.gif)
