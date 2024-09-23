@@ -2,17 +2,14 @@
 
 ## :book: Education
 
-*2017.03 - 2023.02*
-
-**Hanyang University**
+**Hanyang University**  *2017.03 - 2023.02*
 
 ​	Applied Mathematics
 
 ​	Software
 
-*2023.01 - 2023.12*
 
-**Samsung Software Academy For Youth(SSAFY) 9th**
+**Samsung Software Academy For Youth(SSAFY) 9th** *2023.01 - 2023.12*
 
 ## :computer: Projects
 
