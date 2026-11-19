@@ -1,30 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="t d">
-<title id="t">SoonWon Yeom, Software Engineer</title>
-<desc id="d">Career path drawn as a circuit trace: Embedded and IVI, then Cloud on AWS, then Security.</desc>
-<defs>
-<pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e4e8ec"/></pattern>
-<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset=".55" stop-color="#ffffff" stop-opacity=".25"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
-<style>
-.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" role="img" aria-labelledby="t">
+<title id="t">SoonWon Yeom, embedded and IVI software engineer. Currently building an AWS serverless backend, firmware static analysis write-ups and macOS apps.</title>
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e4e8ec"/></pattern>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
 .m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
-.p{stroke-dasharray:44 900;animation:r 7s linear infinite}
-@keyframes r{from{stroke-dashoffset:44}to{stroke-dashoffset:-900}}
-@media (prefers-reduced-motion:reduce){.p{display:none}}
-</style>
-</defs>
-<rect x=".5" y=".5" width="899" height="259" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
-<rect x="1" y="1" width="898" height="258" rx="12" fill="url(#g)"/>
-<rect x="1" y="1" width="898" height="150" rx="12" fill="url(#f)"/>
+.p{stroke-dasharray:18 140;animation:r 4s linear infinite}.q{animation-delay:-2s}
+@keyframes r{from{stroke-dashoffset:18}to{stroke-dashoffset:-140}}
+@media (prefers-reduced-motion:reduce){.p{display:none}}</style></defs>
+<rect x=".5" y=".5" width="899" height="229" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="1" y="1" width="898" height="228" rx="12" fill="url(#g)"/>
+<rect x="1" y="1" width="640" height="228" rx="12" fill="url(#f)"/>
+<g fill="none" stroke="#c4ccd4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M702 91H664l-16-16H622"/><path d="M702 123H672l-16 16H632"/><path d="M798 107H830l16-16h28"/><path d="M798 139H826l16 16h26"/><path d="M742 67V46l-14-14"/><path d="M774 67V38"/><path d="M726 163V188l-14 14"/><path d="M758 163V198"/><path d="M702 91h8M790 91h8"/><path d="M702 107h8M790 107h8"/><path d="M702 123h8M790 123h8"/><path d="M702 139h8M790 139h8"/><path d="M726 67v8M726 155v8"/><path d="M742 67v8M742 155v8"/><path d="M758 67v8M758 155v8"/><path d="M774 67v8M774 155v8"/></g>
+<g fill="#c4ccd4"><circle cx="622" cy="75" r="4"/><circle cx="632" cy="139" r="4"/><circle cx="874" cy="91" r="4"/><circle cx="868" cy="155" r="4"/><circle cx="728" cy="32" r="4"/><circle cx="774" cy="38" r="4"/><circle cx="712" cy="202" r="4"/><circle cx="758" cy="198" r="4"/></g>
+<g fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path class="p" d="M702 91H664l-16-16H622" stroke="#9a6700"/><path class="p q" d="M798 139H826l16 16h26" stroke="#0f766e"/><path class="p q" d="M742 67V46l-14-14" stroke="#9a6700"/><path class="p" d="M726 163V188l-14 14" stroke="#0f766e"/></g>
+<rect x="710" y="75" width="80" height="80" rx="8" fill="#ffffff" stroke="#59636e" stroke-width="2"/>
+<rect x="726" y="91" width="48" height="48" rx="4" fill="none" stroke="#9a6700" stroke-opacity=".7" stroke-width="2"/>
+<circle cx="722" cy="87" r="2.5" fill="#59636e"/><circle cx="750" cy="115" r="5" fill="#0f766e"/>
 <text class="m" x="48" y="52" font-size="14" letter-spacing="2" fill="#59636e">SOFTWARE ENGINEER</text>
-<text class="s" x="46" y="108" font-size="52" font-weight="700" letter-spacing="-1" fill="#1f2328">SoonWon Yeom</text>
-<path id="tr" d="M60 186H210l22-22h96l22 22h180l22-22h96l22 22h182" fill="none" stroke="#c4ccd4" stroke-width="2" stroke-linejoin="round"/>
-<path class="p" d="M60 186H210l22-22h96l22 22h180l22-22h96l22 22h182" fill="none" stroke="#9a6700" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M852 180l8 6-8 6" fill="none" stroke="#c4ccd4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="60" cy="186" r="7" fill="#59636e"/>
-<circle cx="380" cy="186" r="11" fill="#ffffff" stroke="#9a6700" stroke-opacity=".35" stroke-width="2"/><circle cx="380" cy="186" r="6" fill="#9a6700"/>
-<circle cx="700" cy="186" r="11" fill="#ffffff" stroke="#0f766e" stroke-opacity=".35" stroke-width="2"/><circle cx="700" cy="186" r="6" fill="#0f766e"/>
-<g class="m" font-size="16" font-weight="700" letter-spacing="1">
-<text x="52" y="220" fill="#1f2328">EMBEDDED · IVI</text><text x="372" y="220" fill="#9a6700">CLOUD · AWS</text><text x="692" y="220" fill="#0f766e">SECURITY</text></g>
-<g class="m" font-size="13" fill="#59636e">
-<text x="52" y="240">C/C++ · Qt · AAOS</text><text x="372" y="240">CDK · Lambda · DynamoDB</text><text x="692" y="240">firmware · Ghidra</text></g>
+<text class="s" x="46" y="106" font-size="52" font-weight="700" letter-spacing="-1" fill="#1f2328">SoonWon Yeom</text>
+<text class="s" x="48" y="140" font-size="19" fill="#59636e">Embedded / IVI software engineer</text>
+<rect x="46" y="166" width="213" height="28" rx="14" fill="#f6f8fa" stroke="#9a6700" stroke-opacity=".55"/><circle cx="61" cy="180" r="3.5" fill="#9a6700"/><text class="m" x="72" y="184.5" font-size="13" fill="#1f2328">AWS serverless backend</text><rect x="267" y="166" width="229" height="28" rx="14" fill="#f6f8fa" stroke="#0f766e" stroke-opacity=".55"/><circle cx="282" cy="180" r="3.5" fill="#0f766e"/><text class="m" x="293" y="184.5" font-size="13" fill="#1f2328">firmware static analysis</text><rect x="504" y="166" width="119" height="28" rx="14" fill="#f6f8fa" stroke="#59636e" stroke-opacity=".55"/><circle cx="519" cy="180" r="3.5" fill="#59636e"/><text class="m" x="530" y="184.5" font-size="13" fill="#1f2328">macOS apps</text>
 </svg>
