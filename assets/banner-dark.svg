@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="t d">
+<title id="t">SoonWon Yeom, Software Engineer</title>
+<desc id="d">Career path drawn as a circuit trace: Embedded and IVI, then Cloud on AWS, then Security.</desc>
+<defs>
+<pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#21262d"/></pattern>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#0d1117" stop-opacity="1"/><stop offset=".55" stop-color="#0d1117" stop-opacity=".25"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+.p{stroke-dasharray:44 900;animation:r 7s linear infinite}
+@keyframes r{from{stroke-dashoffset:44}to{stroke-dashoffset:-900}}
+@media (prefers-reduced-motion:reduce){.p{display:none}}
+</style>
+</defs>
+<rect x=".5" y=".5" width="899" height="259" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="898" height="258" rx="12" fill="url(#g)"/>
+<rect x="1" y="1" width="898" height="150" rx="12" fill="url(#f)"/>
+<text class="m" x="48" y="52" font-size="14" letter-spacing="2" fill="#8b949e">SOFTWARE ENGINEER</text>
+<text class="s" x="46" y="108" font-size="52" font-weight="700" letter-spacing="-1" fill="#e6edf3">SoonWon Yeom</text>
+<path id="tr" d="M60 186H210l22-22h96l22 22h180l22-22h96l22 22h182" fill="none" stroke="#3d444d" stroke-width="2" stroke-linejoin="round"/>
+<path class="p" d="M60 186H210l22-22h96l22 22h180l22-22h96l22 22h182" fill="none" stroke="#f0b429" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M852 180l8 6-8 6" fill="none" stroke="#3d444d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="60" cy="186" r="7" fill="#8b949e"/>
+<circle cx="380" cy="186" r="11" fill="#0d1117" stroke="#f0b429" stroke-opacity=".35" stroke-width="2"/><circle cx="380" cy="186" r="6" fill="#f0b429"/>
+<circle cx="700" cy="186" r="11" fill="#0d1117" stroke="#39c5bb" stroke-opacity=".35" stroke-width="2"/><circle cx="700" cy="186" r="6" fill="#39c5bb"/>
+<g class="m" font-size="16" font-weight="700" letter-spacing="1">
+<text x="52" y="220" fill="#e6edf3">EMBEDDED · IVI</text><text x="372" y="220" fill="#f0b429">CLOUD · AWS</text><text x="692" y="220" fill="#39c5bb">SECURITY</text></g>
+<g class="m" font-size="13" fill="#8b949e">
+<text x="52" y="240">C/C++ · Qt · AAOS</text><text x="372" y="240">CDK · Lambda · DynamoDB</text><text x="692" y="240">firmware · Ghidra</text></g>
+</svg>
